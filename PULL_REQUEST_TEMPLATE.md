@@ -55,6 +55,8 @@ Objetivos deste formato de discução:
 ## Notas para o processo de construção
 
 *Notas sobre o processo de construção da aplicação para produção. Estes devem observar qualquer novas dependências, novos scripts, etc.*
+**Pré-Condições**:
+- `Link Pull Request` : Determina a dependência de outro pull request ou recurso para que este esteja disponível.
 
 **Novas variáveis ​​de ambiente**:
 
