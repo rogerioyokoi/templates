@@ -1,0 +1,43 @@
+> *[Clique aqui](https://teste.com) e entenda em maiores detalhes o que é esperado dos relatórios de erros*
+
+## Estou vendo esse comportamento em
+*Porque esta informação é importante? Trabalhamos hoje em cenários onde podem existir comportamentos distintos em dispositivos diferentes, por isso esta informação é muito relevante para o entendimento do problema reportado*
+
+### Navegadores afetados / Dispositivos afetados
+ - [ ] Chrome
+ - [ ] Firefox
+ - [ ] Edge
+ - [ ] Safari
+ - [ ] Internet Explorer
+ 
+### Sistema Operacional
+- [ ] Windows
+- [ ] Linux
+- [ ] Mac
+- [ ] Android
+- [ ] iOS
+
+### Outras informações que podem ser úteis para o entendimento / resolução deste problema?
+- [ ] Versão do dispositivo / Navegador
+- [ ] Qual a versão / modelo do dispositivo móvel
+- [ ] Resolução
+
+### Ambiente
+- [ ] Produção
+- [ ] Homologação / Staging
+- [ ] Desenvolvimento
+
+## Quais são as etapas para reproduzir esse problema?
+*Forneça os detalhes de como aconteceu este problema, passo a passo, video e qualquer outro meio de mostrar com clareza o que aconteceu.*
+
+## O que aconteceu?
+*Forneça um descritivo do que aconteceu*
+
+## O que você esperava que acontecesse?
+*Descreve qual era o comportamento esperado para a ação que estava sendo realizada*
+
+## Quaisquer logs, saída de erro, etc?
+*Caso seja possível, nos informe qualquer saída de erro que possa ter ficado evidente para você*
+
+## Outras notas sobre como reproduzir o problema?
+*Possui alguma outra informação sobre a forma de reproduzir este problema, informações como identificadores de usuário / paciente e qualquer outra informação que nos ajude a entender com mais clareza o problema é útil.*
