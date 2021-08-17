@@ -1,76 +1,85 @@
-# Pull Request Template
-## Description
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+------------------------------------------------ Informações (Não faz parte do MODELO de PULL REQUEST sugerido ----------------------------
 
-Fixes # (issue)
+Este é um modelo de Pull Request, olhando atualmente para o cenário de nossas aplicações front-end, este modelo está sendo proposto para ajudar
+a melhorar qualidade de software (Front-End) que entregamos.
 
-## Type of change
+Objetivos deste formato de discução:
 
-*Please delete options that are not relevant.*
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
-- [ ] Needs to update Environment variables update
+1) Entregarmos nossas tarefas com uma melhor qualidade.
+2) Provermos uma quantidade de informações relevantes para nossos PRS.
+3) Conseguirmos exemplificar e expressar com maior riqueza de detalhes as alterações realizadas na nossa aplicação.
+4) Por mais que este modelo esteje diretamente olhando para o cenário de Front-End, ainda sim pode servir de base para um modelo de Back-End
+5) Faz-se necessário que sugestões, críticas e o debate em si seja colocado aos comentários para que possamos inserir este modelo com suas devidas alterações o quanto antes dentro da nossa aplicação.
+6) Sim, este modelo é bem grande, mas tenha em mente, aquilo que não for utilizado deve ser removido no ato de construção do Pull Request.
 
-## Problem
-*What problem are you trying to solve?*
+---
+## Descrição
+*Inclua um resumo da mudança e qual problema foi corrigido. Inclua também a motivação e o contexto relevantes. Liste todas as dependências necessárias para essa mudança.*
 
+##   Tipo de mudança
+*Exclua as opções que não são relevantes.*
+- [] Correção de bug (alteração ininterrupta que corrige um problema)
+- [] Novo recurso (mudança ininterrupta que adiciona funcionalidade)
+- [] Mudança decisiva (correção ou recurso que faria com que a funcionalidade existente não funcionasse como esperado)
+- [] Esta mudança requer uma atualização de documentação
+- [] Precisa atualizar atualização de variáveis ​​de ambiente
 
-## Solution
-*How did you solve the problem?*
+## Problema
+*Que problema você está tentando resolver?*
 
-## Before & After Screenshots
-*If there are changes in the layout, provide screenshots of what it was like for how it looked.*
+## Solução
+*Como você resolveu o problema?*
 
-**BEFORE**:
-[insert screenshot here]
+##   Capturas de tela antes e depois
+*Se houver mudanças no layout, forneça capturas de tela de como era e como ficou sua aparência.*
 
-**AFTER**:
-[insert screenshot here]
+**ANTES**:
+[Captura de tela anterior]
 
-## How Has This Been Tested?
+**DEPOIS**:
+[Captura de tela posterior]
 
-*Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration*
+## Como isso foi testado?
 
-- [ ] Test A
-- [ ] Test B
+*Descreva os testes que você executou para verificar suas alterações. Forneça instruções para que possamos reproduzir. Liste também todos os detalhes relevantes para sua configuração de teste*
 
-## Other changes (e.g. bug fixes, UI tweaks, small refactors)
+- [ ] Teste A
+- [ ] Teste B
+
+## Outras mudanças (por exemplo, correções de bugs, ajustes de IU, pequenas refatorações)
 
 - [ ] Bug 1
-- [ ] Ui Button 
+- [ ] UI Botão 
 
-## Deploy Notes
+## Notas para o processo de construção
 
-*Notes regarding deployment of the contained body of work. These should note any
-new dependencies, new scripts, etc.*
+*Notas sobre o processo de construção da aplicação para produção. Estes devem observar qualquer novas dependências, novos scripts, etc.*
 
-**New environment variables**:
+**Novas variáveis ​​de ambiente**:
 
-- `env var` : env var details
+- `env var` : Detalhes sobre esta variável de ambiente
 
-**New scripts**:
+**Novos scripts**:
 
-- `script` : script details
+- `script` : Detalhes sobre este script
 
-**New dependencies**:
+**Novas dependências**:
 
-- `dependency` : dependency details
+- `dependency` : Detalhes da dependência, assim como a necessidade dela e se necessário breve explicação ou link da documentação.
 
-**New dev dependencies**:
+**Novas dependências de desenvolvimento**:
 
-- `dependency` : dependency details
+- `dependency` : Detalhes da dependência, assim como a necessidade e se necessário breve explicação ou link da documentação.
 
-## Checklist:
+## Lista de controle:
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
-- [ ] I have checked my code and corrected any misspellings
+- [] Meu código segue as diretrizes de estilo deste projeto
+- [] Eu fiz uma autoavaliação do meu próprio código
+- [] Comentei meu código, principalmente em áreas de difícil compreensão
+- [] Fiz as alterações correspondentes na documentação
+- [] Minhas alterações não geram novos avisos
+- [] Eu adicionei testes que provam que minha correção é eficaz ou que meu recurso funciona
+- [] Testes de unidade novos e existentes são aprovados localmente com minhas alterações
+- [] Todas as alterações dependentes foram mescladas e publicadas nos módulos downstream
+- [] Eu verifiquei meu código e corrigi todos os erros ortográficos
