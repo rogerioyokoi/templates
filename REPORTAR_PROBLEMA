@@ -1,43 +1,68 @@
-> *[Clique aqui](https://teste.com) e entenda em maiores detalhes o que é esperado dos relatórios de erros*
+> *[Clique aqui](https://teste.com) e entenda em maiores detalhes o que é esperado em um relatório de erro*
 
 ## Estou vendo esse comportamento em
+
 *Porque esta informação é importante? Trabalhamos hoje em cenários onde podem existir comportamentos distintos em dispositivos diferentes, por isso esta informação é muito relevante para o entendimento do problema reportado*
 
 ### Navegadores afetados / Dispositivos afetados
+
  - [ ] Chrome
  - [ ] Firefox
  - [ ] Edge
  - [ ] Safari
- - [ ] Internet Explorer
- 
+ - [ ] Outro *(Qual?)*
+
 ### Sistema Operacional
+
 - [ ] Windows
 - [ ] Linux
 - [ ] Mac
 - [ ] Android
 - [ ] iOS
+- [ ] Outro *(Qual?)*
 
 ### Outras informações que podem ser úteis para o entendimento / resolução deste problema?
+
 - [ ] Versão do dispositivo / Navegador
 - [ ] Qual a versão / modelo do dispositivo móvel
 - [ ] Resolução
 
 ### Ambiente
+
 - [ ] Produção
 - [ ] Homologação / Staging
 - [ ] Desenvolvimento
 
 ## Quais são as etapas para reproduzir esse problema?
-*Forneça os detalhes de como aconteceu este problema, passo a passo, video e qualquer outro meio de mostrar com clareza o que aconteceu.*
+
+*Forneça os detalhes de como aconteceu este problema, passo a passo, vídeo e qualquer outro meio de mostrar com clareza o que aconteceu.*
 
 ## O que aconteceu?
-*Forneça um descritivo do que aconteceu*
+
+*Forneça um descritivo do que aconteceu.*
 
 ## O que você esperava que acontecesse?
-*Descreve qual era o comportamento esperado para a ação que estava sendo realizada*
+
+*Descreva qual era o comportamento esperado para a ação que estava sendo realizada.*
 
 ## Quaisquer logs, saída de erro, etc?
-*Caso seja possível, nos informe qualquer saída de erro que possa ter ficado evidente para você*
+
+*Caso seja possível, nos informe qualquer saída de erro que possa ter ficado evidente para você.*
 
 ## Outras notas sobre como reproduzir o problema?
-*Possui alguma outra informação sobre a forma de reproduzir este problema, informações como identificadores de usuário / paciente e qualquer outra informação que nos ajude a entender com mais clareza o problema é útil.*
+
+*Possui alguma outra informação sobre a forma de reproduzir este problema, informações como identificadores de usuário / paciente e qualquer outra informação que nos ajude a entender com mais clareza o problema.*
+
+## Lista de controle
+
+*Esta lista de controle nos auxilia a melhorar a forma como informamos um problema com riqueza de detalhes, munindo a equipe de desenvolvimento com informações pertinentes que podem acelerar o processo de resolução do problema.*
+
+- [ ] Verificou se um problema semelhante já existe ou foi fechado antes?
+- [ ] O título está descritivo e de fácil entendimento sobre o conteúdo do problema?
+- [ ] Informar onde viu o comportamento. Esta informação é importante, pois diferentes sistemas operacionais, navegadores, versões de navegadores e dispositivos podem ter comportamentos distintos.
+- [ ] A forma de reprodução deste problema está clara?
+- [ ] Em qual ambiente o problema ocorreu? A importância desta informação condiz com o comportamento que é esperado em determinado ambiente. Por exemplo: Está com um problema na hora de assinar digitalmente um documento, no ambiente de homologação, mas talvez este não seja o problema de fato, pois a fins de testes e etc podem ser desligados, então no problema reportado a equipe técnica trará a resposta.
+- [ ] As etapas para reproduzir este problema estão claras?
+- [ ] O que aconteceu? Quando encontrou o problema o que aconteceu ou estava realizando para o problema acontecer?
+- [ ] Foi possível coletar alguma evidência a mais do problema? Algum erro de console, alguma mensagem na tela?
+- [ ] É possível detalhar mais informações sobre o problema ocorrido? Entenda que quanto mais informações forem disponíveis, como usuário, hora do ocorrido, ajudam a equipe técnica a buscar informações sobre os problemas que foram encontrados.
